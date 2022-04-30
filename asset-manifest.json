@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JAsuncionP/0.git/static/css/main.2a51d786.css",
+    "main.js": "/JAsuncionP/0.git/static/js/main.71ab6ba3.js",
+    "static/media/img1.jpg": "/JAsuncionP/0.git/static/media/img1.05416ee96efc8180e0f2.jpg",
+    "static/media/img2.jpg": "/JAsuncionP/0.git/static/media/img2.f530e09b0e3693845a53.jpg",
+    "index.html": "/JAsuncionP/0.git/index.html",
+    "main.2a51d786.css.map": "/JAsuncionP/0.git/static/css/main.2a51d786.css.map",
+    "main.71ab6ba3.js.map": "/JAsuncionP/0.git/static/js/main.71ab6ba3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a51d786.css",
+    "static/js/main.71ab6ba3.js"
+  ]
+}
